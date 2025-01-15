@@ -1,0 +1,22 @@
+//Objetivo: numero impar ou par
+//Data: 23/04/2024
+
+#include <stdio.h>
+#include <stdlib.h>
+int main(void){
+
+int numero=0;
+int mod=0;
+
+printf("digite um numero: ");
+scanf ("%d", &numero);
+
+if (numero % 2 == 0){
+printf ("numero par");
+}
+else{
+printf ("numero impar");
+}
+
+return 0;
+}
