@@ -1,0 +1,47 @@
+Data: 29/03/2024
+*
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+
+// declaracao de variaveis
+  int ano_inicio;
+  int ano_atual;
+  int i;
+  float salario_inicial;
+  float salario_atual;
+  float perc_reaj;
+  logical ganhou_bonus;
+ 
+  // declaracao de constante
+const float PERC_BONUS = 2.0;
+
+// imprime uma mensagem
+printf("Digite seu ano de contratação");
+
+// ler um valor inteiro
+scanf("%d", &ano_inicio);
+
+// ler um valor real
+scanf("%f", &salario_base);
+
+// ler um valor inteiro
+printf("Valor: %d", ano_atual);
+
+// ler um valor inteiro
+printf("Valor: %d", perc_reaj);
+
+// calculo do salario
+if (ganhou_bonus = = verdadeiro);{
+                         salario_atual = salario_atual + (salario_atual * perc_bonus);
+                         }
+                         {
+                          salario_atual = salario_atual + (salario_atual * perc_reaj);
+                          }
+    printf (''o salario atual do professor é R//, salario_atual'')          
+// finaliza o programa
+return 0;
+}
