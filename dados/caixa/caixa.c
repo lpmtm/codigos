@@ -6,7 +6,6 @@ struct caixa{
 	float comp, larg, alt;
 	float memoria;
 };
-
 Caixa* criar_caixa(){
 	Caixa *c=(Caixa *)
 malloc(sizeof(Caixa));
@@ -15,7 +14,6 @@ malloc(sizeof(Caixa));
 	}
 	return c;
 }
-
 void liberar_caixa(Caixa *c){
 	free(c);
 }
