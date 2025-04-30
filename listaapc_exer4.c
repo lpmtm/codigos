@@ -1,0 +1,36 @@
+//Cabeçalho
+  //Nome: Caroline Lopes Martins (matricula: 2412130073)
+  //Objetivo: atividade 4
+  //Data: 27/04/2024
+
+#include <stdio.h>
+#include <stdlib.h>
+int main(void){
+
+int contador = 0;
+int n1 = 0;
+int n_maior = 0;
+int n_menor = 1;
+
+printf ("digite seu valor de n1: ");
+scanf ("%d", &n1);
+
+n_menor == n1;
+
+while (contador < 10);
+	scanf ("%d", &n1);
+
+if (n1 > n_maior ){
+	n_maior = n1;
+	printf ("n_maior");
+	}
+	
+if (n1<n_menor){
+	n_menor = n1;
+	printf ("n_menor");
+	}	
+	
+contador ++;
+
+return 0;
+}
