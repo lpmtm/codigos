@@ -1,6 +1,6 @@
-//Cabeçalho
+//CabeÃ§alho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
-  //Objetivo: Um programa que lê e armazene 6 valores, e depois os motre na tela
+  //Objetivo: Um programa que lÃª e armazene 6 valores, e depois os motre na tela
   //Lista 4- exercicio 1 
   //Data: 11/06/2024
   
