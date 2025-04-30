@@ -3,7 +3,7 @@
 
 int main(void){
 	
-//declaração
+//declaraÃ§Ã£o
 int i=0;
 int numero=0;
 
