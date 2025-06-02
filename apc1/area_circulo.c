@@ -1,6 +1,6 @@
 /*
 *
-CABEÇALHO
+CABEÃ‡ALHO
 	Autor: Caroline Lopes (matricula: 2412130073)
 	Objetivo: Calcular a area de um circulo
 	Data: 02/04/2024
