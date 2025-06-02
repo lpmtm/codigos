@@ -1,4 +1,4 @@
-//CABEÇALHO
+//CABEÃ‡ALHO
 	//Autor: Caroline Lopes Martins (matricula: 2412130073) 
 	//Objetivo: Calcular o salario atual do professor
 	//Data: 29/03/2024
