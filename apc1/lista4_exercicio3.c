@@ -1,4 +1,4 @@
-//Cabeçalho
+//CabeÃ§alho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
   //Objetivo: Um programa que mostra a media dos valores lidos 
   //Lista 4- exercicio 3
