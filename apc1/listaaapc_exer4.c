@@ -1,4 +1,4 @@
-//Cabeçalho
+//CabeÃ§alho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
   //Objetivo: imprimir o maior e o menor valor
   //Data: 27/04/2024
