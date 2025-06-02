@@ -1,6 +1,6 @@
-//Cabeçalho
+//CabeÃ§alho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
-  //Objetivo: programa que lê uma string e imprima as 4 primeiras letras dela
+  //Objetivo: programa que lÃª uma string e imprima as 4 primeiras letras dela
   //Lista 5- exercicio 1
   //Data: 11/06/2024
 
