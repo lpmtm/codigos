@@ -1,4 +1,4 @@
-//Cabeçalho: 
+//CabeÃ§alho: 
   //Autor: Caroline Lopes (matricula: 2412130073)
   //Objetivo: Calcular media intermediaria e final
   // Data: 08/04/2024
