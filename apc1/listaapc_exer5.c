@@ -1,4 +1,4 @@
-//CabeÁalho
+//Cabe√ßalho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
   //Objetivo: bois
   //Data: 29/04/2024
@@ -18,13 +18,13 @@ int main(void){
 	//calculo da receita
 	receita = quantidade * preco;
 	
-	//solicitaÁ„o de dados
+	//solicita√ß√£o de dados
 	printf ("informe o peso do primeiro boi: ");
 	scanf ("%d", &peso_boi);
 	
 		while (boi < 10){
 			if (peso_boi >= 600.00){
-				printf ("informe a quantidade que ser· disponÌvel para o arroba: ");
+				printf ("informe a quantidade que ser√° dispon√≠vel para o arroba: ");
 				scanf ("%d", &quantidade);
 				scanf ("&d", &arroba);
 		
