@@ -1,6 +1,6 @@
-//Cabeçalho
+//CabeÃ§alho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
-  //Objetivo: programa que lê uma string e imprima ela de tras para frente
+  //Objetivo: programa que lÃª uma string e imprima ela de tras para frente
   //Lista 5- exercicio 3
   //Data: 11/06/2024
 
