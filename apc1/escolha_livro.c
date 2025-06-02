@@ -1,4 +1,4 @@
-//Cabeçalho
+//CabeÃ§alho
   //Nome: Caroline Lopes Martins (matricula: 2412130073)
   //Objetivo: auxiliar o emprestimo de livros
   //Data: 16/04/2024
@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
-//declaração de variaveis
+//declaraÃ§Ã£o de variaveis
 int cod_livro1=1;
     int cod_livro2=2;
     int cod_livro3=3;
@@ -35,7 +35,7 @@ int cod_livro1=1;
                  printf(" >>o livro existe");
                  printf(" >>pegue o livro");
     }
-    //se não existe 
+    //se nÃ£o existe 
     printf(" >>digite o codigo do livro escolhido: ");
          scanf("%d", &cod_livro_desejado);
            if (cod_livro_desejado != 1);{
